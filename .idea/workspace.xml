@@ -24,6 +24,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -35,7 +36,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602769558327</updated>
       <workItem from="1602769560126" duration="117000" />
-      <workItem from="1602837355430" duration="2170000" />
+      <workItem from="1602837355430" duration="3953000" />
     </task>
     <servers />
   </component>
@@ -47,5 +48,9 @@
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
     <state x="2044" y="340" width="566" height="402" key="#com.intellij.fileTypes.FileTypeChooser/1366.0.1920.1080/0.31.1366.737@1366.0.1920.1080" timestamp="1602837741232" />
+    <state x="1815" y="172" width="1135" height="908" key="SettingsEditor" timestamp="1602856220592">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1815" y="172" width="1135" height="908" key="SettingsEditor/1366.0.1920.1080/0.31.1366.737@1366.0.1920.1080" timestamp="1602856220592" />
   </component>
 </project>
